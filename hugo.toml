@@ -1,4 +1,4 @@
-baseurl = "https://trivcate.github.io"
+baseurl = "https://trivcate.github.io/"
 title = "Travis Andrews"
 theme = "hugo-coder"
 languagecode = "en"
